@@ -13,7 +13,7 @@
 
 ## 相关的文档模块
 
-- [JsonAPI规范](index.md)
+- [JsonAPI规范](readme.md)
 - [API的封装样例](demo.md)
 - [API的错误样例](errors.md)
 - [http的状态码描述](statuscode.md)
